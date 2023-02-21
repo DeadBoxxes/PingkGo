@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+ <style>
+  .phvid {
+   size: 13px;
+   border: 1px solid black;
+   width: 180px;
+   height: 170px;
+  }
+  .phvid IMG {
+  }
+ </style>
+</head>
+<body>
+ <div class="phvid">
+  sbduwudw yo gabba gabba lorum ipsum buhh
+  <IMG src="">
+ </div>
+</body>
